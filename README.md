@@ -5,6 +5,7 @@ Fallout Terminal
 ## Todo
 
 - [ ] Create Demo
+- [ ] Add Terminal Sound
 
 ## User Stories
 
