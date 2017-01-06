@@ -1,7 +1,3 @@
-# Fallout-Terminal
-
-
-
 Fallout Terminal
 ======
 **Fallout Terminalt** is the terminal mini-game in Fallout built with JavaScript
